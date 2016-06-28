@@ -11,8 +11,8 @@
  */
 (function(king){
     console.info("组件信息:window.king.shape");
-    console.debug("API:window.shape.touch(src,x,y,callback)");
-    console.debug("    window.shape.touchPoint(src,point,callback)");
+    console.debug("API:king.shape.touch(src,x,y,callback)");
+    console.debug("    king.shape.touchPoint(src,point,callback)");
     console.debug("返回值：Object {touch: true, alpha: 255} Or Object {touch: false, alpha: 0}");
     console.log("https://github.com/zhangkailin/ShapeTouch");
     king.shape = king.shape||{};
