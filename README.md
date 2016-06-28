@@ -3,7 +3,7 @@ ShapeTouch 该Javascript库用于实现H5中不规则图形按钮可点击区域
 This Library used for testing the alpha value of a pixel on the irregular image, for example, the irregular button touch on the H5Game.<br/>
 有问题可联系QQ：46194470
 
-API 条用接口
+API 调用接口
 -------------------
 ```javascript
 king.shape.touch(src,x,y,callback)
